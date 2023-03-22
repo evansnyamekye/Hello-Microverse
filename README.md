@@ -32,8 +32,8 @@
 **[Hello-Microverse]** This is a single page website that was develop with HTML5 AND CSS3. It displays a text that says "Hello Microverse!" in a reddish color form.
 
 ## 🛠 Built With <a name="built-with"></a>
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 <!-- Features -->
 
